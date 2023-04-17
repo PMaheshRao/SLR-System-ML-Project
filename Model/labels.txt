@@ -1,0 +1,9 @@
+0 Hello
+1 I Love You
+2 I or Me
+3 Like
+4 No
+5 Perfect
+6 Thank You
+7 Victory
+8 Yes
